@@ -1,7 +1,7 @@
 // Leonardo Merino Villela - 2189723
-// Mateus Domingos
-// Paulo Dorazzi
-// João victor Garcia
+// Mateus Domingos - 2189411
+// Paulo César da Silva Dorazzi Branco - 2196455
+// Joao Victor Garcia Gregorio - 2241389
 // Trabalho 2 - Algoritmos em Grafos
 
 #include <algorithm>
