@@ -1,0 +1,7 @@
+# Para testar, faça exatamente assim na pasta do projeto:
+
+1- Confirme que os arquivos "g1.txt", "g2.txt" e "g3.txt" estão na mesma pasta do "main.cpp".
+
+2- Compile: g++ -std=c++17 -O2 -Wall -Wextra -o main.exe main.cpp
+
+3- Execute: .\main.exe
