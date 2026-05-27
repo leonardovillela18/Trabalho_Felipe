@@ -325,7 +325,7 @@ int main() {
     try {
         ListaAdjacencia g1 = lerGrafoNaoPonderado("g1.txt", false);
         ListaAdjacencia g2 = lerGrafoNaoPonderado("g2.txt", true);
-        ListaAdjacencia g3 = lerGrafoPonderado("g3.txt", true);
+        ListaAdjacencia g3 = lerGrafoPonderado("g3.txt", false);
 
         cout << "LISTA DE ADJACENCIA - G1 (nao dirigido)\n";
         imprimirListaAdjacencia(g1, false);
@@ -335,7 +335,7 @@ int main() {
         imprimirListaAdjacencia(g2, false);
         cout << '\n';
 
-        cout << "LISTA DE ADJACENCIA - G3 (dirigido e ponderado)\n";
+        cout << "LISTA DE ADJACENCIA - G3 (nao dirigido e ponderado)\n";
         imprimirListaAdjacencia(g3, true);
         cout << '\n';
 
